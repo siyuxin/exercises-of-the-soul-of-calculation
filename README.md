@@ -8,7 +8,7 @@
 
 
 ## 任务安排
-首次组队学习活动，围绕第一章展开
+首次组队学习活动，围绕第一章展开共读
 
 |   Task   |      内容     |   时间   |
 |----------|:-------------:|:------:|
@@ -19,7 +19,7 @@
 
 ## 拓展资料
 书籍配套视频：https://space.bilibili.com/431850986/channel/collectiondetail?sid=619198<br>
-书籍第一章在线阅读（感谢吴军老师授权开源）:
+书籍第一章在线阅读（感谢吴军老师授权开源）:https://linklearner.com/datawhale-homepage/#/learn/detail/107
 
 ## 思考题安排 
 

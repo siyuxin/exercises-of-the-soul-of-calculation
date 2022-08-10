@@ -18,7 +18,7 @@
 | Task04   |  阅读1.4.3与附录并输出笔记，完成思考题1.4 | 9-3 —— 9-10 |
 
 ## 拓展资料
-书籍配套视频：https://space.bilibili.com/431850986/channel/collectiondetail?sid=619198
+书籍配套视频：https://space.bilibili.com/431850986/channel/collectiondetail?sid=619198<br>
 书籍第一章在线阅读（感谢吴军老师授权开源）:
 
 ## 思考题安排 

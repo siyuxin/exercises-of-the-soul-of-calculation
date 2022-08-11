@@ -1,6 +1,7 @@
 # exercises-of-the-soul-of-calculation
-![](https://github.com/siyuxin/exercises-of-the-soul-of-calculation/blob/main/images/book.jpg)
 # 计算之魂思考题探讨
+<a href="url"><img src="https://github.com/siyuxin/exercises-of-the-soul-of-calculation/blob/main/images/book.jpg" height="280" width="210" ></a>
+
 ## 项目背景
 《计算之魂》是《数学之美》姊妹篇，是吴军博士时隔近10年在科技领域的重磅新作。在本书中，作者将人文历史与计算机科学相结合，通过一些具体的例题，分10个主题系统地讲解了计算机科学的精髓。全书的例题+思考题超100道，这些例题是作者面试求职者时用到的考题，或是头部计算机公司和金融企业的面试题。
 

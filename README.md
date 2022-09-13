@@ -23,6 +23,8 @@
 书籍配套视频：https://space.bilibili.com/431850986/channel/collectiondetail?sid=619198<br>
 书籍第一章在线阅读（感谢吴军老师授权开源）:https://linklearner.com/datawhale-homepage/#/learn/detail/107
 
+书籍第一章共读活动读者分享讲义（by CELFS/陈晓宇）:https://rf8j0i8s4f.feishu.cn/file/boxcn1foj2Y0pHLpD1NCbEJtR7b
+
 ## 思考题安排 
 
 ### 引子 计算的本质——从机械到电子
@@ -57,7 +59,7 @@ Q2.回旋打印二叉树的节点 (作者使用过的面试题)。 /086<br>
 Q1.二叉树的最大深度(也被称为树的高度)是从根节点到最远的叶子节点的
 节点数。请写一个判定任意二叉树最大深度的算法。  /092<br>
 Q2.如何在一个二叉排序树中找到第二大的元素?    /092<br>
- 
+
 
 ### 第3章 万物皆编码——抽象与表示
 思考题3.1  给定一个集合，如何输出它的幂集?   /104<br>

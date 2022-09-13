@@ -23,7 +23,7 @@
 书籍配套视频：https://space.bilibili.com/431850986/channel/collectiondetail?sid=619198<br>
 书籍第一章在线阅读（感谢吴军老师授权开源）:https://linklearner.com/datawhale-homepage/#/learn/detail/107
 
-书籍第一章共读活动读者分享讲义（by CELFS/陈晓宇）:https://rf8j0i8s4f.feishu.cn/file/boxcn1foj2Y0pHLpD1NCbEJtR7b
+第一章共读活动读者分享讲义（by CELFS）:https://rf8j0i8s4f.feishu.cn/file/boxcn1foj2Y0pHLpD1NCbEJtR7b
 
 ## 思考题安排 
 
